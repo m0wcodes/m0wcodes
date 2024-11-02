@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Mowalim Kalim Jr.** (@m0wcodes)
+- 👋 Hi, I’m **Mow** (@m0wcodes)
 - 👀 I’m interested in **ICT for Development (ICT4DEV)**, **Artificial Intelligence**, and **data-driven solutions** that make a positive impact.
 - 🌱 I’m currently diving deeper into **AI applications in healthcare** and **community-focused technology projects**.
 - 💞️ I’m looking to collaborate on **open-source projects** related to **machine learning**, **data analytics**, and **social innovation**.
